@@ -18,7 +18,6 @@ log <- c(FALSE,TRUE,FALSE,TRUE)
 # rm(x)
 plot(c(4,5,6), c(34,67,89))
 getwd()
-setwd("D:/Lucid IT Data Science Materials/LIT-01/R-Basics/R-basics2")
 #matrices - 2d
 ?matrix
 # matrix(data = NA, nrow = 1, ncol = 1, byrow = FALSE,dimnames = NULL)
